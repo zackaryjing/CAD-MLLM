@@ -1,0 +1,70 @@
+
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00045387_00005/00045387_00005_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00045720_00001/00045720_00001_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00045667_00004/00045667_00004_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00046024_00004/00046024_00004_007.png
+[Progress] Checked 1020000 PNG files, found 4 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00046042_00006/00046042_00006_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00045643_00004/00045643_00004_007.png
+[Progress] Checked 1030000 PNG files, found 6 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00045474_00001/00045474_00001_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00049690_00002/00049690_00002_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00046042_00003/00046042_00003_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00046053_00001/00046053_00001_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00045790_00022/00045790_00022_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00045619_00017/00045619_00017_007.png
+[Progress] Checked 1040000 PNG files, found 12 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00049702_00005/00049702_00005_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0004/00045353_00001/00045353_00001_007.png
+
+[Progress] Checked 1740000 PNG files, found 14 empty
+[Progress] Checked 1750000 PNG files, found 14 empty
+[Progress] Checked 1760000 PNG files, found 14 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0003/00035011_00001/00035011_00001_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0003/00035055_00003/00035055_00003_007.png
+[Progress] Checked 1770000 PNG files, found 16 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0003/00034990_00005/00034990_00005_007.png
+[Progress] Checked 1780000 PNG files, found 17 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0003/00035419_00001/00035419_00001_007.png
+[Progress] Checked 1790000 PNG files, found 18 empty
+[Progress] Checked 1800000 PNG files, found 18 empty
+
+
+[Progress] Checked 3000000 PNG files, found 18 empty
+[Progress] Checked 3010000 PNG files, found 18 empty
+[Progress] Checked 3020000 PNG files, found 18 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0002/00026320_00013/00026320_00013_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0002/00026351_00001/00026351_00001_007.png
+[Progress] Checked 3030000 PNG files, found 20 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0002/00025910_00001/00025910_00001_007.png
+[Progress] Checked 3040000 PNG files, found 21 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0002/00029046_00001/00029046_00001_007.png
+[Progress] Checked 3050000 PNG files, found 22 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0002/00026030_00001/00026030_00001_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0002/00026356_00001/00026356_00001_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0002/00029161_00004/00029161_00004_007.png
+[Progress] Checked 3060000 PNG files, found 25 empty
+[Progress] Checked 3070000 PNG files, found 25 empty
+[Progress] Checked 3080000 PNG files, found 25 empty
+[Progress] Checked 3090000 PNG files, found 25 empty
+
+[Progress] Checked 3580000 PNG files, found 25 empty
+[Progress] Checked 3590000 PNG files, found 25 empty
+[Progress] Checked 3600000 PNG files, found 25 empty
+[Progress] Checked 3610000 PNG files, found 25 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0005/00051319_00003/00051319_00003_007.png
+[Progress] Checked 3620000 PNG files, found 26 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0005/00050954_00001/00050954_00001_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0005/00050994_00004/00050994_00004_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0005/00051322_00003/00051322_00003_007.png
+[Progress] Checked 3630000 PNG files, found 29 empty
+[Progress] Checked 3640000 PNG files, found 29 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0005/00051335_00002/00051335_00002_007.png
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0005/00051283_00003/00051283_00003_007.png
+[Progress] Checked 3650000 PNG files, found 31 empty
+[EMPTY] /root/projects/dm-cad/datasets/dataset_v0/cad_img/0005/00051324_00003/00051324_00003_007.png
+[Progress] Checked 3660000 PNG files, found 32 empty
+[Progress] Checked 3670000 PNG files, found 32 empty
+[Progress] Checked 3680000 PNG files, found 32 empty
+
+
